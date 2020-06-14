@@ -31,3 +31,5 @@ sudo apt install containerd -y
 sudo apt install docker.io -y
 
 sudo apt install docker-compose -y
+
+alias docker='sudo docker'
